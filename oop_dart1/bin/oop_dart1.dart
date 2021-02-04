@@ -1,5 +1,7 @@
-import 'package:oop_dart1/oop_dart1.dart' as oop_dart1;
+import 'dart:io';
 
 void main(List<String> arguments) {
-  print('Hello world: ${oop_dart1.calculate()}!');
+  var input = stdin.readLineSync();
+
+  print('hello, welcome back ' + input.toString());
 }
