@@ -10,4 +10,8 @@ after that type dart,
 if u have notice about stangehand, just accepted,
 and then chose console application,
 last write ur name folder,
-done. -->
+done.
+
+sorry for my bad english, i still learn it. thx.
+
+-->
