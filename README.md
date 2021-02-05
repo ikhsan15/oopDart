@@ -14,7 +14,7 @@
 
 # and then chose console application,
 
-# last write ur name folder,
+# last write ur folder name,
 
 # done.
 
