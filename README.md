@@ -1,4 +1,4 @@
-# oopDart
+# oopDart with dart v1.22.5
 
 # hi guys, this is oop dart learning material, i watched from youtube and implemented them, thanks y'all
 
